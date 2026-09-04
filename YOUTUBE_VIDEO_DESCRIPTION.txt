@@ -1,0 +1,89 @@
+"""
+YouTube Video Description for AnimeVortex Channel
+Description prête à copier-coller pour ta vidéo de présentation
+"""
+
+# TITRE DE LA VIDÉO
+🚀 J'AI CRÉÉ UN BOT POUR AUTOMATISER MA CHAÎNE YOUTUBE! (Tutorial Python)
+
+# DESCRIPTION COMPLÈTE
+
+Salut les amis! 👋
+
+Je viens de créer un système COMPLET d'automatisation pour YouTube avec Python! 
+Découvrez comment uploader, gérer vos playlists et suivre les stats automatiquement! 📊
+
+⏰ TIMESTAMPS:
+00:00 - Intro
+00:30 - Ce que nous allons faire
+01:15 - Installation et setup
+03:00 - Upload une vidéo automatiquement
+05:30 - Upload plusieurs vidéos à la fois
+07:45 - Gérer les playlists
+09:20 - Voir les statistiques détaillées
+11:00 - Modifier les descriptions en masse
+12:30 - Conclusion et résultats
+
+✨ FONCTIONNALITÉS DU BOT:
+✅ Upload de vidéos automatique
+✅ Gestion complète des playlists
+✅ Récupérer les statistiques (vues, likes, commentaires)
+✅ Modifier les titres, descriptions et tags
+✅ Upload de miniatures
+✅ Upload en masse avec fichier JSON
+✅ Menu interactif facile à utiliser
+
+🔗 RESSOURCES:
+📁 GitHub Repo: https://github.com/yarismatiba-pixel/youtube-automation-animevortex
+📖 Documentation YouTube API: https://developers.google.com/youtube/v3
+☁️ Google Cloud Console: https://console.cloud.google.com/
+
+📋 ÉTAPES POUR UTILISER LE BOT:
+1. Clonez le repo GitHub
+2. Installez les dépendances: pip install -r requirements.txt
+3. Créez une application Google Cloud
+4. Configurez votre fichier .env
+5. Lancez: python main.py
+6. Choisissez ce que vous voulez faire!
+
+💻 PRÉREQUIS:
+- Python 3.8+
+- pip
+- Un compte Google/YouTube
+- Les credentials YouTube API
+
+🎯 CAS D'USAGE:
+- Youtubeurs qui produisent beaucoup de contenu
+- Créateurs de compilations (Top 10, Best of, etc)
+- Gestion de plusieurs chaînes
+- Automatiser vos uploads
+- Suivre facilement vos stats
+
+⭐ N'OUBLIE PAS:
+👍 Liker si tu as aimé!
+🔔 T'abonner pour plus de tutoriels!
+💬 Commentez vos questions en bas!
+📧 Contactez-moi pour des demandes de vidéo!
+
+🤝 SOCIALS:
+GitHub: https://github.com/yarismatiba-pixel
+Email: yarismatiba@gmail.com
+
+📊 BONUS - STATISTIQUES DE MA CHAÎNE:
+Avant d'utiliser ce bot: [à remplir avec tes stats]
+Après avoir utilisé ce bot: [à remplir après test]
+
+Merci de regarder! À la prochaine! 🎬
+
+#Python #YouTube #Automation #Tutoriel #Programmation #API #YouTubeAPI #Tech #Coding #AnimeVortex
+
+---
+
+NOTES POUR LA VIDÉO:
+- Montrez le process d'installation
+- Faites une demo en direct d'un upload
+- Montrez les stats récupérées
+- Parlez des avantages pour les créateurs
+- Montrez le menu interactif
+- Testez l'édition en masse
+- Résultats finaux sur la chaîne
